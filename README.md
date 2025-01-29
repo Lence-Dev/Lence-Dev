@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone 👋 My name is Sergio and I am a web application developer.💻</h1>
+<h1 align="center">Hello everyone, I'm Sergio 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
@@ -7,7 +7,7 @@
 ---
 
 ### 👨🏻 **About Me**
-I am a web application developer who has just started in the world and I want to learn and improve my technical skills as much as I can. 
+I am a student web application developer, currently finishing my degree. I am expanding my knowledge in both front-end and back-end. I love to learn and build something new, productive, innovative and creative. 
 
 ### 🧑🏻‍💻 **Tech**
 <p align="center">
@@ -19,6 +19,7 @@ I am a web application developer who has just started in the world and I want to
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -26,9 +27,9 @@ I am a web application developer who has just started in the world and I want to
 ---
 
 ### 📌 **Projects**
-Here I will post the projects that I will be doing in the future.:
+Here I will post the projects that I will be doing in the future:
 
-- 🔥 [SpotifyAppLite](https://github.com/Lence-Dev/) - small spotify project in PHP v.8 and SYMFONY 7.0.
+- 🔥 [SpotifyApp](https://github.com/Lence-Dev/) - small spotify project in PHP v.8 and SYMFONY 7.0.
 
 ---
 
