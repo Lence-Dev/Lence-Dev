@@ -29,7 +29,7 @@ I am a student web application developer, currently finishing my degree. I am ex
 ### 📌 **Projects**
 Here I will post the projects that I will be doing in the future:
 
-- 🔥 [SpotifyApp](https://github.com/Lence-Dev/) - small spotify project in PHP v.8 and SYMFONY 7.0.
+- 🔥 [SpotifyApp](https://github.com/Lence-Dev/SpotifyApp) - small spotify project in PHP v.8 and SYMFONY 7.0.
 
 ---
 
