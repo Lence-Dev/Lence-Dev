@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone 👋 My name is lence and I am a web application developer.💻</h1>
+<h1 align="center">Hello everyone 👋 My name is Sergio and I am a web application developer.💻</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
