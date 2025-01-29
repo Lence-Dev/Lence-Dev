@@ -9,6 +9,8 @@
 ### 👨🏻 **About Me**
 I am a student web application developer, currently finishing my degree. I am expanding my knowledge in both front-end and back-end. I love to learn and build something new, productive, innovative and creative. 
 
+---
+
 ### 🧑🏻‍💻 **Tech**
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
